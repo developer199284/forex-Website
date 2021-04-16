@@ -22,6 +22,9 @@ Route::post('/logout', 'AuthController@logout');
 Route::get('/forgot', 'AuthController@forgot')->name('forgot');
 Route::post('/forgot', 'AuthController@forgot');
 Route::get('/logout', 'AuthController@logout')->name('logout');
+
+// Route::get('/signup', 'AboutusController@signup');
+
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/about-us', 'AboutusController@index');
