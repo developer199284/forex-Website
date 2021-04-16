@@ -9,18 +9,18 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h1 class="t-small" data-animate="AnimateText">Newsroom</h1>
+                            <h1 class="t-small" data-animate="AnimateText">News</h1>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-lg-5">
                             <div class="c-text-block">
-                                <p class="h2" data-animate="AnimateText">All the latest updates and upcoming events</p>
+                                <p class="h2" data-animate="AnimateText">You can see recent financial information for Investing.com</p>
                             </div>
                         </div>
                         <div class="col-md-3 col-lg-6 offset-lg-1">
                             <div class="editor" data-animate="AnimateText">
-                                <p></p>
+                                <p>Information is very imfortant. ELLIOT Trader provide latest recent information.</p>
                             </div>
                         </div>
                     </div>
@@ -55,9 +55,6 @@
                                                             <time datetime="2021-03-31">31 Mar 2021</time>
                                                     </div>
                                                 </div>
-                                                <h3 class="h5"><a href="coffee-webinar/index.html"><span>Coffee Webinar</span></a></h3>
-                                                <p>Online</p>
-                                                <p>What factors will help the market sustain the rally? The shortfall in the arabica market will be significant but what about robusta? Demand outlook is poised to surprise to the upside but will investors remain cautious?</p>
                                                 
                                             </div>
             
@@ -70,28 +67,12 @@
                                                             <time datetime="2021-03-11">11</time> <span>&ndash;</span> <time datetime="2021-03-12">12 Mar 2021</time>
                                                     </div>
                                                 </div>
-                                                <h3 class="h5"><a href="the-fastmarkets-copper-seminar/index.html"><span>The Fastmarkets Copper Seminar</span></a></h3>
-                                                <p>Virtual</p>
-                                                <p>Can copper keep up with rising consumption?</p>
+                                                
                                                 
                                             </div>
             
                                         </div>
-                                        <div class="col-md-3 col-lg-6">
-                                            <div class="c-event">
-                                                <div class="t-small">
-                                                    <div class="c-event__date">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" height="35" width="35" viewBox="0 0 35 35"><g fill="none" fill-rule="evenodd"><rect width="30" height="27" x="4.5" y="8" fill="#3DFCB0" rx="2"></rect><path fill="#151B34" d="M2 4h29v27H2z"></path><path fill="#FFF" fill-rule="nonzero" d="M30.03 2.86h-2.145a.715.715 0 000 1.43h2.145v5.72H1.43V4.29h2.145a.715.715 0 100-1.43H1.43C.64 2.86 0 3.5 0 4.29v25.74c0 .79.64 1.43 1.43 1.43h28.6c.79 0 1.43-.64 1.43-1.43V4.29c0-.79-.64-1.43-1.43-1.43zM1.43 30.03V11.44h28.6v18.59H1.43z"></path><path fill="#FFF" fill-rule="nonzero" d="M9.295 4.29h12.87a.715.715 0 000-1.43H9.295a.715.715 0 000 1.43z"></path><path fill="#FFF" fill-rule="nonzero" d="M6.435 7.15c.395 0 .715-.32.715-.715V.715a.715.715 0 00-1.43 0v5.72c0 .395.32.715.715.715z"></path><path fill="#FFF" fill-rule="nonzero" d="M25.025 7.15c.395 0 .715-.32.715-.715V.715a.715.715 0 00-1.43 0v5.72c0 .395.32.715.715.715z"></path></g></svg>
-                                                            <time datetime="2021-02-09">09</time> <span>&ndash;</span> <time datetime="2021-02-10">10 Feb 2021</time>
-                                                    </div>
-                                                </div>
-                                                <h3 class="h5"><a href="tradetechfx/index.html"><span>TradeTechFX</span></a></h3>
-                                                <p>Virtual Event</p>
-                                                <p>A buy-side FX conference, for FX trading and portfolio management.</p>
-                                                
-                                            </div>
-            
-                                        </div>
+                                       
                                 </div>
                             </div>
             
