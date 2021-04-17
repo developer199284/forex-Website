@@ -1,4 +1,4 @@
-.footer-links{
+.footer-links {
     border-top: 3px solid #3DFCB0;
 }
 
@@ -7,18 +7,20 @@
     border-radius: 25px;
 }
 
+
 /* first part */
-#about{
+
+#about {
     border: 3px solid #DEDADA;
     border-radius: 25px;
 }
 
-.my-center{
+.my-center {
     text-align: center;
-   
 }
-.my-border{
-    border:2px solid #151B34;
+
+.my-border {
+    border: 2px solid #151B34;
     border-radius: 15px;
 }
 
@@ -26,18 +28,27 @@
     margin-top: -0.2em;
 }
 
-.about-padding{
-    padding:15px;
+.about-padding {
+    padding: 15px;
 }
+
 
 /* second part */
 
-.middle-title{
-    font-size:3rem;
-   
+.middle-title {
+    font-size: 3rem;
 }
-
 
 [data-page=home]:not(.is-mask):not(.is-navigation):not(.is-searching) .header-base {
     background-color: #151b34;
+}
+
+.header-main {
+    height: 7.25em;
+}
+
+@media screen and (min-width: 540px) {
+    .logo {
+        margin: 0px;
+    }
 }

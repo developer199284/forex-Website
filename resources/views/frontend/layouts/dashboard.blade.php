@@ -198,9 +198,10 @@
                         <div class="col-12">
                             <div class="header-main">
                                 <div class="logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         <!-- <span class="visually-hidden"></span> -->
-                                        <div class="logo__icon" id="logo"></div>
+                                        <!-- <div class="logo__icon" id="logo"></div> -->
+                                        <img src="images/logo.png" alt="ELLIOT TRADER">
                                     </a>
                                 </div>
 

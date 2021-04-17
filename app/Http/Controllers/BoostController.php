@@ -43,7 +43,7 @@ class BoostController extends Controller
         $id=$request->input('id');
         if(BoostStars::select()->where('stars',$request->input('stars'))->count())
             if($id==0||$id!=BoostStars::select()->where('stars',$request->input('stars'))->get()[0]['id'])return -1;
-        $row=$id>0?BoostStars::find($id):new BoostStars;
+        $row = $id>0 ? BoostStars::find($id) : new BoostStars;
         $row->stars=$request->input('stars');
         $row->numberOfFollower=$request->input('numberOfFollower');
         if($id==0){
