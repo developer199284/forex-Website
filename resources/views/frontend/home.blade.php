@@ -229,9 +229,11 @@
                                 <div class="col-lg-6 my-center" style="padding:0px; ">
                                     <h2 class="middle-title"style="margin-bottom:4%;">High execution performance</h2>
                                     <img id="" src="images/high-per.png" alt="performance" style="border-radius:10px 0px 0px 10px;"> 
+                                    
                                 </div>
-                             
+                                
                                 <div class="col-lg-6 my-center" style="margin-top:4%; padding:0px;">
+                                    {{-- <hr style="transform: rotate(45deg);"> --}}
                                     <img id="" src="images/minimum latency.png" alt="about" style="border-radius:0px 10px 10px 0px;">
                                     <h2 class="middle-title" style="margin-top:4%;">Minimum Latency</h2>
                                 </div>
@@ -242,7 +244,7 @@
         <div class="umb-grid">
                 <div class="grid-section">
                 
-                <section class="section bg-base c-latest-news visible">
+                <section class="section bg-base c-latest-news visible" style="background-color: #3c435b">
                     <div class="container relative">
                    
                         <div class="row">
@@ -267,7 +269,7 @@
                                             <div class="c-latest-news-block">
                                                 <div class="c-news-block">
                                                     <div class="t-small"><time datetime="2021-03-12">12.03.2021</time></div>
-                                                    <h3 class="h5">
+                                                    <h3 class="h5_fix">
                                                         <a href="https://vimeo.com/521503383/" target="_blank">
                                                             <span>Fastmarkets Copper Seminar 2021: The internationalisation of copper trading and the LME discussion paper panel</span>
                                                             <svg><use xlink:href="#external"></use></svg>
@@ -279,7 +281,7 @@
                                             <div class="c-latest-news-block">
                                                 <div class="c-news-block">
                                                     <div class="t-small"><time datetime="2021-03-08">08.03.2021</time></div>
-                                                    <h3 class="h5">
+                                                    <h3 class="h5_fix ">
                                                         <a href="https://www.telegraph.co.uk/business/2021/03/07/london-metal-exchange-traders-fear-silencing-ring/" target="_blank">
                                                             <span>The Telegraph: London Metal Exchange traders fear the silencing of the Ring</span>
                                                             <svg><use xlink:href="#external"></use></svg>
@@ -291,7 +293,7 @@
                                             <div class="c-latest-news-block">
                                                 <div class="c-news-block">
                                                     <div class="t-small"><time datetime="2021-02-08">08.02.2021</time></div>
-                                                    <h3 class="h5">
+                                                    <h3 class="h5_fix ">
                                                         <a href="https://vimeo.com/510155525" target="_blank">
                                                             <span>TradeTech FX 2021: How is digital transformation in financial services disrupting FX options in order to enhance flexibility and operational efficiencies?</span>
                                                             <svg><use xlink:href="#external"></use></svg>
@@ -303,7 +305,7 @@
                                             <div class="c-latest-news-block">
                                                 <div class="c-news-block">
                                                     <div class="t-small"><time datetime="2021-01-23">23.01.2021</time></div>
-                                                    <h3 class="h5">
+                                                    <h3 class="h5_fix ">
                                                         <a href="http://www.e-forex.net/articles/jan-2021-exploring-the-benefits-of-more-customised-fx-liquidity-pools.html" target="_blank">
                                                             <span>e-Forex: Exploring the benefits of more customised FX liquidity pools</span>
                                                             <svg><use xlink:href="#external"></use></svg>

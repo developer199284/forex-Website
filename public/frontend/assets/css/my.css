@@ -49,6 +49,16 @@
 
 @media screen and (min-width: 540px) {
     .logo {
-        margin: 0px;
+        margin-bottom: 8px;
     }
+}
+
+#news-part {
+    background-color: #3c435b;
+}
+
+.h5_fix {
+    font-size: 2rem;
+    line-height: 3.8rem;
+    margin-bottom: .66667em;
 }
