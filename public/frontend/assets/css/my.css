@@ -62,3 +62,21 @@
     line-height: 3.8rem;
     margin-bottom: .66667em;
 }
+
+.c-report-card {
+    padding-bottom: 80%;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+@media (max-width:706px) {
+    .c-report-card {
+        padding-bottom: 103.5%;
+    }
+}
+
+.c-report-card__t a>span {
+    color: rgb(27, 24, 24);
+}

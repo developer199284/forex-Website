@@ -33,21 +33,12 @@
                         <div class="col-lg-4">
                             <h2 class="t-large" data-animate="AnimateText">Turkish economic calender</h2>
                         </div>
-                            <div class="col-lg-8">
-                                <div class="c-news-tabs">
-                                    <div class="c-tabs" data-tabs>
-                                        <ul data-animate="AnimateList">
-                                                <li><a data-value="2021" data-uri="eyear" class="is-active" href="index45c8.html?eyear=2021">2021</a></li>
-                                                <li><a data-value="2020" data-uri="eyear" href="index1822.html?eyear=2020">2020</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+                        
                     </div>
             
                             <div data-response-updater="events">
                                 <div class="row" data-animate="AnimateList">
-                                        <div class="col-md-3 col-lg-6">
+                                        <div class="col-md-3 col-lg-12">
                                             <div class="c-event">
                                                 <div class="t-small">
                                                     <div class="c-event__date">
@@ -59,20 +50,6 @@
                                             </div>
             
                                         </div>
-                                        <div class="col-md-3 col-lg-6">
-                                            <div class="c-event">
-                                                <div class="t-small">
-                                                    <div class="c-event__date">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" height="35" width="35" viewBox="0 0 35 35"><g fill="none" fill-rule="evenodd"><rect width="30" height="27" x="4.5" y="8" fill="#3DFCB0" rx="2"></rect><path fill="#151B34" d="M2 4h29v27H2z"></path><path fill="#FFF" fill-rule="nonzero" d="M30.03 2.86h-2.145a.715.715 0 000 1.43h2.145v5.72H1.43V4.29h2.145a.715.715 0 100-1.43H1.43C.64 2.86 0 3.5 0 4.29v25.74c0 .79.64 1.43 1.43 1.43h28.6c.79 0 1.43-.64 1.43-1.43V4.29c0-.79-.64-1.43-1.43-1.43zM1.43 30.03V11.44h28.6v18.59H1.43z"></path><path fill="#FFF" fill-rule="nonzero" d="M9.295 4.29h12.87a.715.715 0 000-1.43H9.295a.715.715 0 000 1.43z"></path><path fill="#FFF" fill-rule="nonzero" d="M6.435 7.15c.395 0 .715-.32.715-.715V.715a.715.715 0 00-1.43 0v5.72c0 .395.32.715.715.715z"></path><path fill="#FFF" fill-rule="nonzero" d="M25.025 7.15c.395 0 .715-.32.715-.715V.715a.715.715 0 00-1.43 0v5.72c0 .395.32.715.715.715z"></path></g></svg>
-                                                            <time datetime="2021-03-11">11</time> <span>&ndash;</span> <time datetime="2021-03-12">12 Mar 2021</time>
-                                                    </div>
-                                                </div>
-                                                
-                                                
-                                            </div>
-            
-                                        </div>
-                                       
                                 </div>
                             </div>
             
