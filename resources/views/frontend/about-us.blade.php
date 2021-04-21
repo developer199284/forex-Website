@@ -40,7 +40,7 @@
                             <div class="editor editor--intro" data-animate="AnimateText">
                                 <p>Our mission is to approach our clients’ investment expectations honestly and keep pace with global market demands.</p>
                                 <p>Offering premium trading conditions to our traders. As we mentioned before, Elliot Trade protects your capital like it is our own. </p>
-                                <h2>Stability and strength</h2>
+                                <h2>Stability and strength</h2>   
                                 <p>Our client-first mentality is all about flexible products and offering solutions that are best to our clients.<a href="/about-us/Mission" title="Our Mission"></a></p>
                                 <p><a href="/about-us/Mission" title="Our story" class="btn">See our mission</a></p>
                             </div>
