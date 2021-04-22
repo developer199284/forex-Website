@@ -1,18 +1,12 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Http\Controllers\Util\DbUtil;
+
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Storage;
-use App\Models\BoostPackage;
-use App\Models\BoostStars;
-class HomeController extends Controller
+
+class AdminController extends Controller
 {
-    /**
-     * Create a new controller instance.
-     *
-     * @return void
-     */
+    //
     public function __construct()
     {
         //$this->middleware('auth');
@@ -25,17 +19,8 @@ class HomeController extends Controller
      */
     public function index(Request $request)
     {
-        return view('frontend.home',[
-            
-        ]);
-    }
-
-    public function admin(Request $request)
-    {
         return view('backend.home',[
             
         ]);
     }
-
-    
 }

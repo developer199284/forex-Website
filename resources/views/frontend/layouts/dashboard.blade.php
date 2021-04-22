@@ -187,7 +187,7 @@
                                     <div class="c-header-dropdown__menu">
                                         <ul>
                                             <li><a href="/login" target="_blank" rel="noopener">Login</a></li>
-                                            <li><a href="/sign-up">Sign Up</a></li>
+                                            <li><a href="/logout">Logout</a></li>
                                         </ul>
                                     </div>
                                 </div>

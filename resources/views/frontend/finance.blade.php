@@ -45,6 +45,8 @@ input[type=text], select, textarea {
     }
 }
 
+
+
 </style>
  <main id="content">
     <section class="section bg-dark c-reports" data-reports>

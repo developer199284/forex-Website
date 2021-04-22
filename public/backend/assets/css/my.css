@@ -1,0 +1,82 @@
+.footer-links {
+    border-top: 3px solid #3DFCB0;
+}
+
+#contact {
+    border: 5px solid #3DFCB0;
+    border-radius: 25px;
+}
+
+
+/* first part */
+
+#about {
+    border: 3px solid #DEDADA;
+    border-radius: 25px;
+}
+
+.my-center {
+    text-align: center;
+}
+
+.my-border {
+    border: 2px solid #151B34;
+    border-radius: 15px;
+}
+
+.c-overview-and-additional__t {
+    margin-top: -0.2em;
+}
+
+.about-padding {
+    padding: 15px;
+}
+
+
+/* second part */
+
+.middle-title {
+    font-size: 3rem;
+}
+
+[data-page=home]:not(.is-mask):not(.is-navigation):not(.is-searching) .header-base {
+    background-color: #151b34;
+}
+
+.header-main {
+    height: 7.25em;
+}
+
+@media screen and (min-width: 540px) {
+    .logo {
+        margin-bottom: 8px;
+    }
+}
+
+#news-part {
+    background-color: #3c435b;
+}
+
+.h5_fix {
+    font-size: 2rem;
+    line-height: 3.8rem;
+    margin-bottom: .66667em;
+}
+
+.c-report-card {
+    padding-bottom: 80%;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+@media (max-width:706px) {
+    .c-report-card {
+        padding-bottom: 103.5%;
+    }
+}
+
+.c-report-card__t a>span {
+    color: rgb(27, 24, 24);
+}
